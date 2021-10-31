@@ -8,7 +8,7 @@ class rem
   {
     cout<<"Remainder: "<<a%b<<endl;
   }
-}
+};
 int main()
 {
   rem obj1(3,2);
