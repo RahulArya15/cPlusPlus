@@ -28,7 +28,8 @@ class info
      cout<<"Telephone number: "<<telephone<<endl;
      cout<<"Mobile number: "<<mobile<<endl;
      cout<<"Head of the family: "<<head<<endl;   
-}
+   }
+};
 int main()
 {
   info obj[3];
